@@ -1,0 +1,7 @@
+com\example\repository\BookRepository.class
+com\example\service\BookService.class
+com\example\JsontodbApplication$1.class
+com\example\JsontodbApplication.class
+com\example\controller\BookController.class
+com\example\domain\Reviews.class
+com\example\domain\Book.class
